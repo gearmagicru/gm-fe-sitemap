@@ -1,0 +1,13 @@
+[
+    {
+        "xtype": "numberfield",
+        "fieldLabel": "#Records in the file",
+        "tooltip": "#Maximum number of entries (articles and site sections) in a sitemap file",
+        "name": "limit",
+        "width": "100%",
+        "value": 10000,
+        "minValue" : 10,
+        "maxnValue" : 10000,
+        "allowBlank": false
+    }
+]
