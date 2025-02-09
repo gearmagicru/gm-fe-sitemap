@@ -1,0 +1,32 @@
+{
+    "name": "gearmagicru/gm-fe-tags",
+    "description": "Module \"Site material tags\"",
+    "keywords": [
+        "gm",
+        "gearmagic",
+        "site",
+        "module",
+        "tags"
+    ],
+    "homepage": "https://apps.gearmagic.ru/component/gm-fe-tags",
+    "type": "component",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anton Tivonenko",
+            "email": "anton.tivonenko@gmail.com",
+            "homepage": "https://gearmagic.ru"
+        }
+    ],
+    "require": {
+        "gearmagicru/gm-composer-plugin": "*"
+    },
+    "extra": {
+        "gm": {
+            "id": "gm.fe.tags",
+            "vendor": "gm"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
