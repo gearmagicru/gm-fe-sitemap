@@ -1,14 +1,14 @@
 {
-    "name": "gearmagicru/gm-fe-tags",
-    "description": "Module \"Site material tags\"",
+    "name": "gearmagicru/gm-fe-sitemap",
+    "description": "Module \"Sitemap\"",
     "keywords": [
         "gm",
         "gearmagic",
         "site",
         "module",
-        "tags"
+        "sitemap"
     ],
-    "homepage": "https://apps.gearmagic.ru/component/gm-fe-tags",
+    "homepage": "https://apps.gearmagic.ru/component/gm-fe-sitemap",
     "type": "component",
     "license": "MIT",
     "authors": [
@@ -23,7 +23,7 @@
     },
     "extra": {
         "gm": {
-            "id": "gm.fe.tags",
+            "id": "gm.fe.sitemap",
             "vendor": "gm"
         }
     },
