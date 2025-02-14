@@ -1,13 +1,7 @@
 {
     "name": "gearmagicru/gm-fe-sitemap",
-    "description": "Module \"Sitemap\"",
-    "keywords": [
-        "gm",
-        "gearmagic",
-        "site",
-        "module",
-        "sitemap"
-    ],
+    "description": "Website module \"Sitemap\"",
+    "keywords": ["gearmagic", "gm-site", "gm-component", "gm-module", "module"],
     "homepage": "https://apps.gearmagic.ru/component/gm-fe-sitemap",
     "type": "component",
     "license": "MIT",
